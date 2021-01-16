@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://drive.google.com/file/d/1b0l91WQLOi4puBrluO1uhDAJMf7wJeHh/view?usp=sharing"> # Naman Gupta 
 
 <!--
 **naman-gupta99/naman-gupta99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
