@@ -11,7 +11,6 @@
 <a href="https://open.spotify.com/user/31lpwvehy464nioojajhb2sr4b4e">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=naman-gupta99)
 <!--
 **naman-gupta99/naman-gupta99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
