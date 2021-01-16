@@ -1,4 +1,6 @@
-### Hi there 👋
+# <img src='images\TheMaroonKnight-scary.ico' style='border-radius:50%; width:30px; margin-right:5px;'> Naman Gupta
+
+## `TheMaroonKnight`
 
 <!--
 **naman-gupta99/naman-gupta99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
