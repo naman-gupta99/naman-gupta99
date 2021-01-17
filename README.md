@@ -68,7 +68,7 @@ I am **Naman Gupta**, an Computer Science Undergraduate, Full-Stack Developer an
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=naman-gupta99&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=naman-gupta99&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🗂️ Highlight Projects
 
