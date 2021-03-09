@@ -28,9 +28,9 @@ Hey there!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gi
 I am **Naman Gupta**, an Computer Science Undergraduate, Full-Stack Developer and Autonomous Vehichles Enthusiast.
 <img align="right" alt="GIF" src="./assets\stockcarracing.gif" width="500" height="320" />
 
--   🏎️ I’m currently working on **Self-Driving Car Controller for Speed-Dreams Simulator**
--   🐍 I’m currently learning **PyGame**
--   💬 Ask me about **anything cool & fun**
+-   🏎️ I’m currently working on **Crio's Winter of Doing'21 Stage 3 Project**
+-   🤓 I’m currently learning **Jest**
+-   💬 Ask me about (but maybe rather talk to me about) **anything cool & fun** 
 -   📫 How to reach me: **[@MaroonKnight777](https://twitter.com/MaroonKnight777)**
 -   ⚡ Fun fact: **A F1 driver looses 2-3 kgs within 2 hours during a race.**
 
