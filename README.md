@@ -28,8 +28,8 @@ Hey there!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gi
 I am **Naman Gupta**, an Computer Science Undergraduate, Full-Stack Developer and Autonomous Vehichles Enthusiast.
 <img align="right" alt="GIF" src="./assets\stockcarracing.gif" width="500" height="320" />
 
--   🏎️ I’m currently looking for **an Interesting Idea to work on**
--   🤓 I’m currently learning **Jest**
+-   🏎️ I’m working on **[AICrowds Learn-to-Race Challenge](https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge)**
+-   🤓 I’m currently learning **GraphQL**
 -   💬 Ask me about (but maybe rather talk to me about) **anything cool & fun** 
 -   📫 How to reach me: **[@MaroonKnight777](https://twitter.com/MaroonKnight777)**
 -   ⚡ Fun fact: **A F1 driver looses 2-3 kgs within 2 hours during a race.**
