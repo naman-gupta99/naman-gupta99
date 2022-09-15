@@ -14,9 +14,6 @@
 <a href="https://www.youtube.com/channel/UC4DDFEY499bSaPsfCiUq0Yg">
   <img align="left" alt="TheMaroonKnight's Youtube Channel" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
-<a href="https://open.spotify.com/user/31lpwvehy464nioojajhb2sr4b4e">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 <br />
 <br />
