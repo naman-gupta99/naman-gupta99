@@ -34,35 +34,13 @@ I am **Naman Gupta**, an Computer Science Undergraduate, Full-Stack Developer an
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/naman-gupta99/IPC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=naman-gupta99&repo=IPC&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="IPC" />
+<a href="https://github.com/naman-gupta99/Self-Driving-Simulation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=naman-gupta99&repo=Self-Driving-Simulation &show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="IPC" />
 </a>
 
 <a href="https://github.com/naman-gupta99/Anger-alarm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=naman-gupta99&repo=Anger-alarm&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="IPC" />
 </a>
-
-## 🔧 Technologies & Tools
-
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
-
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-
-![](https://img.shields.io/badge/Browser-Edge-informational?style=flat&logo=Microsoft-Edge&logoColor=white&color=6aa6f8)
-
-![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=white&color=6aa6f8)
-
-![](https://img.shields.io/badge/Backend-NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=6aa6f8)
-
-![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Frontend-Angular-informational?style=flat&logo=angular&logoColor=white&color=6aa6f8)
-
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/DB-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=6aa6f8)
-
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 
 ## &#x1f4c8; GitHub Stats
 
