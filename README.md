@@ -35,11 +35,11 @@ I am **Naman Gupta**, an Computer Science Undergraduate, Full-Stack Developer an
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/naman-gupta99/Self-Driving-Simulation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=naman-gupta99&repo=Self-Driving-Simulation &show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="IPC" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=naman-gupta99&repo=Self-Driving-Simulation&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Self-Driving-Simulation" />
 </a>
 
 <a href="https://github.com/naman-gupta99/Anger-alarm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=naman-gupta99&repo=Anger-alarm&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="IPC" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=naman-gupta99&repo=Anger-alarm&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Anger-alarm" />
 </a>
 
 ## &#x1f4c8; GitHub Stats
