@@ -31,6 +31,17 @@ I am **Naman Gupta**, an Computer Science Undergraduate, Full-Stack Developer an
 -   📫 How to reach me: **[@MaroonKnight777](https://twitter.com/MaroonKnight777)**
 -   ⚡ Fun fact: **A F1 driver looses 2-3 kgs within 2 hours during a race.**
 
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/naman-gupta99/IPC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=naman-gupta99&repo=IPC&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="IPC" />
+</a>
+
+<a href="https://github.com/naman-gupta99/Anger-alarm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=naman-gupta99&repo=Anger-alarm&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="IPC" />
+</a>
+
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
@@ -66,13 +77,3 @@ I am **Naman Gupta**, an Computer Science Undergraduate, Full-Stack Developer an
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=naman-gupta99&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🗂️ Highlight Projects
-
-<a href="https://github.com/naman-gupta99/IPC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=naman-gupta99&repo=IPC&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="IPC" />
-</a>
-
-<a href="https://github.com/DumbMachine/Hackshetra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DumbMachine&repo=Hackshetra&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Hackshetra" />
-</a>
