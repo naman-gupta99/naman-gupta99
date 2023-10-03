@@ -6,13 +6,13 @@
   <img align="left" alt="MaroonKnight777 | X" width="22px" src="./assets/x.png" />
 </a>
 <a href="https://www.linkedin.com/in/naman-gupta99/">
-  <img align="left" alt="Naman's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Naman's LinkedIn" width="22px" src="./assets/linkedin.png" />
 </a>
 <a href="https://medium.com/@themaroonknight">
   <img align="left" alt="Naman's Medium" width="22px" src="./assets/medium.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UC4DDFEY499bSaPsfCiUq0Yg">
-  <img align="left" alt="TheMaroonKnight's Youtube Channel" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img align="left" alt="TheMaroonKnight's Youtube Channel" width="22px" src="./assets/youtube.svg" />
 </a>
 
 <br />
