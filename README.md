@@ -3,7 +3,7 @@
 ### `TheMaroonKnight`
 
 <a href="https://twitter.com/MaroonKnight777">
-  <img align="left" alt="MaroonKnight777 | X" width="22px" src="./assets/x.com.png" />
+  <img align="left" alt="MaroonKnight777 | X" width="22px" src="./assets/x.png" />
 </a>
 <a href="https://www.linkedin.com/in/naman-gupta99/">
   <img align="left" alt="Naman's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
