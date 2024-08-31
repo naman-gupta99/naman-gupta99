@@ -20,16 +20,14 @@
 
 Hey there!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-## 🤪 Random Things about Me
+## 🤪 Random Things About Me
 
-I am **Naman Gupta**, an Computer Science Undergraduate, Full-Stack Developer and Autonomous Vehichles Enthusiast.
-<img align="right" alt="GIF" src="./assets\stockcarracing.gif" width="250" height="200" />
+I am **Naman Gupta**, pursuing MSCS at the University of Pittsburgh, Full-Stack Developer, and Autonomous Vehicles Enthusiast.
 
 -   🏎️ I’m working on **Creating an animation showing 2 models of the solar system**
 -   🤓 I’m currently learning **DynamoDB**
 -   💬 Ask me about **anything cool & fun** 
 -   📫 How to reach me: **[@MaroonKnight777](https://twitter.com/MaroonKnight777)**
--   ⚡ Fun fact: **A F1 driver looses 2-3 kgs within 2 hours during a race.**
 
 
 ## 🗂️ Highlight Projects
